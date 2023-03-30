@@ -1,1 +1,72 @@
-/*  your css code here. If applicable */
+.tt{
+	background-color:rgb(200, 164, 140);
+}
+.parent{
+	background-color: #011e29;
+	display:flex;
+	align-items: center;
+	justify content:center;
+	color: white;
+	
+	
+	
+	padding: 15px;
+	text-align:centre;
+	font-size: 20px;
+}
+.child{
+	
+	align-self:center;
+	position:relative;
+	left:200px;
+}
+.parents{
+	display:flex;
+	align-items: center;
+	justify content:center;
+}
+.one,.two,.three{
+	position:relative;
+	left:50px;
+}
+.main{
+	display:flex;
+	align-items: center;
+	justify content: center;
+}
+#yasir{
+	position:absolute;
+	left:250px;
+bottom:350px;
+}
+.khan{
+	padding:180px;
+	position:relative;
+	left:28px;
+	bottom:265px;
+}
+.pic{
+	position:absolute;
+	left:420px;
+bottom:350px;
+}
+.i{
+	width:150px;
+	position:absolute;
+	left:385px;
+bottom:250px;
+}
+.m{
+	width:150px;
+	position:absolute;
+	left:385px;
+bottom:150px;
+}
+.a{
+	width:150px;
+	position:absolute;
+	left:385px;
+bottom:50px;
+}
+
+
